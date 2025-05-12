@@ -1,0 +1,43 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+ios/Flutter/Flutter.podspec
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Generated.xcconfig
+
+# Firebase-specific files (if you use Firebase SDK or any Firebase CLI)
+firebase_config.json
+firebase_options.dart
+
+# Flutter generated files
+*.log
+*.swp
+*.swo
+*.dart_tool/
+
+# IDE settings (VSCode, IntelliJ, etc.)
+.vscode/
+.idea/
+
+# macOS generated files
+.DS_Store
+
+# Android Studio specific
+.idea/
+.gradle/
+local.properties
+
+# Node.js modules (if you're using Firebase in a Node.js backend or web setup)
+node_modules/
+
+# Flutter dependency management files
+*.iml
+
+# Flutter build outputs
+build/
